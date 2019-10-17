@@ -89,7 +89,7 @@ while(t--)
 			  else
 			  cout<<a[i]<<" ";
 		  }
-		  cout<<"\n"; 
+		  cout<<endl; 
 	   }
 	  
    }
