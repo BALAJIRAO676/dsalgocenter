@@ -47,7 +47,7 @@ void Divisors(int n)
 
 int main()
 {
-	nfs_mw ;
+	
 int t,i;cin>>t;
 while(t--)
 {
@@ -72,13 +72,9 @@ g.clear();
 		//cout<<a[i]<<" "<<m[a[i]]<<"\n";
 		ans=max(ans,m[a[i]]);
 	}
-cout<<ans<<"\n";
+cout<<ans<<endl;
 }
 
 return 0;
 }
 
-/*
-13
-3 4 5 6 1 2 3 1 8 2 2 3 3 
-*/
