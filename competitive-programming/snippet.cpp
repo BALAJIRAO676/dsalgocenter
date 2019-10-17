@@ -64,7 +64,7 @@ bool type(const pair<int,int> &a,
 
 int main()
 {
-	//nfs_mw ;
+
 int n,i;
 
 return 0;
