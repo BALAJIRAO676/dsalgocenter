@@ -35,7 +35,7 @@ int main()
 			re++;
 		}
 		//cout<<le<<" "<<re<<" "<<lo<<" "<<ro<<"\n";
-		cout<<le*ro + lo*re<<"\n";
+		cout<<le*ro + lo*re<<endl;
 		
 	}
 return 0;
